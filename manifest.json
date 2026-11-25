@@ -1,0 +1,18 @@
+{
+  "name": "Laporan Teknisi GWT",
+  "short_name": "Laporan GWT",
+  "description": "Aplikasi Input Laporan Teknisi GWT (Offline & Online Sync ke Google Sheet)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0284c7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
